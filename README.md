@@ -13,6 +13,6 @@ This is my solution for Insight Data Engineering coding challenge.
   
   {key: department_id, value: {key: number_of_order, value: int, key: number_of_first_order, value: int}
 
-  Order_products.csv is read in and is processed line by line. For each order, department_id is abtained from product_id using the production id to department id mapping. Then the field number_of_order and number_of_first_order (if it is the first time order) in the result Dict is increase by 1.
+  Order_products.csv is read in and is processed line by line. For each order, department_id is abtained from product_id using the production id to department id mapping. Then the field number_of_order and number_of_first_order (if it is the first time order) in the result Dict is increased by 1.
 
 (3) write the result to output csv file.
