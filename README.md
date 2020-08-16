@@ -1,4 +1,4 @@
-# Purchase-Analytics
+# Insigh Coding Challenge: Purchase Analytics
 
 This is my solution for Insight Data Engineering coding challenge.
 
